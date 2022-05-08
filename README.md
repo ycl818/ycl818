@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+My name is Yi-Chien Lee. I am an alumnus of Northeastern University.
+
+Here’s my personal website: https://yichien-lee.netlify.app
+
+My primary focus is on building Front End Web Applications. Currently, I'm also learning Back End development. 
+
+My skillsets include languages like JavaScript, Python, SQL, C/C++, React.js. 
+
+I do this because I love it. I love the process of software development, whereby you can make a real commercial website that many can use.
+
+I'm looking for a job that allow me to realize my passion!
 <!--
 **ycl818/ycl818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
