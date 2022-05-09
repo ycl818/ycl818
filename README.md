@@ -4,9 +4,9 @@ My name is Yi-Chien Lee. I am an alumnus of Northeastern University.
 
 Here’s my personal website: https://yichien-lee.netlify.app
 
-My primary focus is on building Front End Web Applications. Currently, I'm also learning Back End development. 
+Currently, I'm devloping a game in C++ with Ureal Engine. Can't wait to share with you!
 
-My skillsets include languages like JavaScript, Python, SQL, C/C++, React.js. 
+My skillsets include languages like JavaScript, Python, SQL, C/C++, React. 
 
 I do this because I love it. I love the process of software development, whereby you can make a real commercial website that many can use.
 
