@@ -6,6 +6,8 @@ Here’s my personal website: https://yichien-lee.netlify.app
 
 Currently, I'm devloping a game in C++ with Ureal Engine. Can't wait to share with you!
 
+Besides, I'm learning DevOps with University of Chicago as well.
+
 My skillsets include languages like JavaScript, Python, SQL, C/C++, React. 
 
 I do this because I love it. I love the process of software development, whereby you can make a real commercial website that many can use.
