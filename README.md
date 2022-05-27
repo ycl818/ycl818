@@ -2,7 +2,7 @@
 
 My name is Yi-Chien Lee. I am an alumnus of Northeastern University.
 
-Here’s my personal website: https://yichien-lee.netlify.app
+Here’s my personal website: [https://yichien-lee.netlify.app](https://yichien-lee.vercel.app/)
 
 Currently, I'm devloping a game in C++ with Ureal Engine. Can't wait to share with you!
 
