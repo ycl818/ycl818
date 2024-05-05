@@ -4,13 +4,15 @@ I'm Yi-Chien Lee, an alumnus of Northeastern University.
 
 Here’s my personal website: [Portfolio](https://yichien-lee.vercel.app/)
 
-I am a software developer with a passion for building web applications using React. Currently, I'm learning Swift, but my main focus is on building robust and scalable web applications using React. 
+I am a software developer, especially in web development, and focusing on React.js / Next.js
 
-My skillsets include programming languages like JavaScript, Python, SQL, and C/C++. I also have experience with technologies like Node.js, Express.js, and MongoDB.
+Currently, I'm learning about Cloud Engineering with AWS, I want to leverage my knowledge of websites with the cloud to help the company scale its products.
 
-Flexible in Windows, macOS, and Linux, I am dedicated to providing elegant solutions that meet the needs of my clients and users. 
+My skillsets include programming languages such as JS, TS, Python, and C/C++. I also have experience with technologies like Node.js, Express.js, and MongoDB.
 
-I do this because I love it. I love the process of software development, whereby you can make a real commercial website that many can use. Let's connect and build something amazing together!
+Flexible in Windows, macOS, and Linux, I am dedicated to providing elegant solutions that meet the needs of requests. 
+
+Let's connect and build something amazing together!
 
 ![ycl818's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ycl818&theme=dark&show_icons=true)
 
