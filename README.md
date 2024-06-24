@@ -8,7 +8,9 @@ I am a software developer, especially in web development, and focusing on React.
 
 Currently, I'm learning about Cloud Engineering with AWS, I want to leverage my knowledge of websites with the cloud to help the company scale its products.
 
-- 🔭 I’m currently working on Cloud Practitioner CLF-C02 exam
+- ✨ I successfully obtained the AWS Certified Cloud Practitioner (CCP)
+
+- ✨ I successfully passed the AWS Solutions Architect Associate (SAA) as well.
 
 My skillsets include programming languages such as JS, TS, Python, and C/C++. I also have experience with technologies like Node.js, Express.js, and MongoDB.
 
