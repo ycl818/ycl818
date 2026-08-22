@@ -18,7 +18,7 @@ Flexible in Windows, macOS, and Linux, I am dedicated to providing elegant solut
 
 Let's connect and build something amazing together!
 
-![ycl818's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ycl818&theme=dark&show_icons=true)
+<!--[ycl818's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ycl818&theme=dark&show_icons=true)
 
 <!--
 **ycl818/ycl818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
